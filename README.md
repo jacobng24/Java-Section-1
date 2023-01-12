@@ -17,7 +17,7 @@ HCS_1_5:
 Scanner project (distance between two points) 
 Average of numbers
 
------------------------Miscallaneous Projects/Test-----------------------
+----------------------------------------------Miscallaneous Projects/Test----------------------------------------------
 
 HCS_20220815: 
 Random selections of testing simple mathematical functions
