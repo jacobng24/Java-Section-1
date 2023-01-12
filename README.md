@@ -1,5 +1,5 @@
 # Java-Section-1-2022
-This is a collection my first coding projects in Java. Run in java console.
+This is a collection of my first coding projects in Java. Run in java console.
 
 HCS_1_1:
 Simple print commands explaining myself
